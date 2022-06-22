@@ -1,11 +1,13 @@
 ![Git Banner](https://user-images.githubusercontent.com/37886408/174928842-22b98e5f-f7fd-44be-ab29-aa4cd5c60adb.png)
 
-Sorry, I'm late. 👋🏻
+Sorry, I'm late. 👋🏼
 
 Anyways, welcome! If you're here, then you want to know about me. Feel free to explore my projects.   
 - 👀 I'm interested in making my own story in the world
 - 🌱 I'm currently learning Web Development and Python 3
 - 🧐 I'm looking to collaborate on a company like Microsoft
+- 🎓 I'm a [FIRST Alumn Class of 2018](https://www.firstinspires.org/stories/first-place-where-i-belong "FIRST is a Place Where I Belong")
+- 🤖 I was a FIRST Mentor of team Voltec Robotics 6647 (2018-2022)
 - 📫 How to reach me: edpinedaguerra@gmail.com
 - 🕹 My favorite videogame is Halo 3
 - 📺 My favorite series are:
