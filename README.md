@@ -28,6 +28,11 @@ Here are my skills 🛠:
 <br>
 <br>
 
+You can find me also in 🌐:
+
+<a href="https://www.linkedin.com/in/eddie4577/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=50px/></a>
+<a href="https://discuss.codecademy.com/u/neomty"><img src="https://play-lh.googleusercontent.com/PG76Emc2UrtKFRE4V7g1cGQ9b4rozQiWjhwCwlVeg37k3w1iZ-jZs_Zg3QlrJp2pQsk" height=50px/></a>
+
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoMty&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Eduardo's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoMty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
