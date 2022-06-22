@@ -21,6 +21,13 @@ Anyways, welcome! If you're here, then you want to know about me. Feel free to e
 - 📖 I'm currently reading Star Wars The High Republic: Light of the Jedi
 - 👨🏻‍💻 Random fact: Since I was kid, I always wanted to be a software engineer
 
+Here are my skills 🛠:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px alt="Python icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px alt="HTML5 icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50px alt="Java icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50px alt="C++ icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50px alt="CSS icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height=50px alt="Microsoft SQL Server icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height=50px alt="Android Studio icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height=50px alt="Swift icon"/>
+<br>
+<br>
+
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoMty&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Eduardo's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoMty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
