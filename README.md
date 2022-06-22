@@ -21,9 +21,9 @@ Anyways, welcome! If you're here, then you want to know about me. Feel free to e
 - 📖 I'm currently reading Star Wars The High Republic: Light of the Jedi
 - 👨🏻‍💻 Random fact: Since I was kid, I always wanted to be a software engineer
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoMty&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Eduardo's%20GitHub%20stats)](https://github.com/NeoMty/github-readme-stats)
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoMty&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Eduardo's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoMty&layout=compact&theme=vision-friendly-dark)](https://github.com/NeoMty/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoMty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 If you have questions, you can always ask me! 😁💬
 <!---
