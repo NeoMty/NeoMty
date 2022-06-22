@@ -1,6 +1,6 @@
 ![Git Banner](https://user-images.githubusercontent.com/37886408/174928842-22b98e5f-f7fd-44be-ab29-aa4cd5c60adb.png)
 
-Sorry, I'm late. 👋
+Sorry, I'm late. 👋🏻
 
 Anyways, welcome! If you're here, then you want to know about me. Feel free to explore my projects.   
 - 👀 I'm interested in making my own story in the world
@@ -10,14 +10,14 @@ Anyways, welcome! If you're here, then you want to know about me. Feel free to e
 - 🕹 My favorite videogame is Halo 3
 - 📺 My favorite series are:
   - 📕 Once Upon a Time
-  - 🕵️‍♂️ Agents of SHIELD
+  - 🕵🏻‍♂️ Agents of SHIELD
 - 🎮 I'm currently playing: 
   - 🗻 Tomb Raider
   - ⚔ Elden Ring
   - 🚀 Destiny 2
   - 🏹 Horizon Zero Dawn
 - 📖 I'm currently reading Star Wars The High Republic: Light of the Jedi
-- 👨‍💻 Random fact: Since I was kid, I always wanted to be a software engineer
+- 👨🏻‍💻 Random fact: Since I was kid, I always wanted to be a software engineer
 
 If you have questions, you can always ask me! 😁💬
 <!---
