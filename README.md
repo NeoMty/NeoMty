@@ -8,6 +8,7 @@ Anyways, welcome! If you're here, then you want to know about me. Feel free to e
 - 🧐 I'm looking to collaborate on a company like Microsoft
 - 🎓 I'm a [FIRST Alum Class of 2018](https://www.firstinspires.org/stories/first-place-where-i-belong "FIRST is a Place Where I Belong")
 - 🤖 I was a FIRST Mentor of team Voltec Robotics 6647 (2018-2022)
+- 🥇 I was part of the first place winner team at Hack Mty 2022 in the Blue Yonder Challenge
 - 📫 How to reach me: edpinedaguerra@gmail.com
 - 🕹 My favorite videogame is Halo 3
 - 📺 My favorite series are:
