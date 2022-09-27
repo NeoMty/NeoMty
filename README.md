@@ -24,8 +24,7 @@ Anyways, welcome! If you're here, then you want to know about me. Feel free to e
 
 Here are my skills 🛠:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px alt="Python icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px alt="HTML5 icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50px alt="Java icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50px alt="C++ icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50px alt="CSS icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height=50px alt="Microsoft SQL Server icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height=50px alt="Android Studio icon"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height=50px alt="Swift icon"/>
+[![My Skills](https://skillicons.dev/icons?i=py,html,java,cpp,css,mysql,swift,androidstudio)](https://skillicons.dev)
 <br>
 <br>
 
