@@ -36,6 +36,8 @@ You can find me also in 🌐:
 
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoMty&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Eduardo's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/edpinedaguerra?ext=activity)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoMty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 If you have questions, you can always ask me! 😁💬
