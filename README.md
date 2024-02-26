@@ -4,8 +4,8 @@ Sorry, I'm late. 👋🏼
 
 Anyways, welcome! If you're here, then you want to know about me. Feel free to explore my projects.   
 - 👀 I'm interested in making my own story in the world
-- 🌱 I'm currently learning Web Development and Python 3
-- 📽 I'm Web Designer Jr. at the student group Hypebirds Mty of ITESM Campus Monterrey
+- 🌱 I'm currently learning Web Development
+- 👨🏼‍🎓 I graduated from Tecnológico de Monterrey
 - 🧐 I'm looking to collaborate on a company like Microsoft
 - 🎓 I'm a [FIRST Alum Class of 2018](https://www.firstinspires.org/stories/first-place-where-i-belong "FIRST is a Place Where I Belong")
 - 🤖 I was a FIRST Mentor of team Voltec Robotics 6647 (2018-2022)
@@ -15,17 +15,19 @@ Anyways, welcome! If you're here, then you want to know about me. Feel free to e
 - 📺 My favorite series are:
   - 📕 Once Upon a Time
   - 🕵🏻‍♂️ Agents of SHIELD
+  - 🔱 Percy Jackson and the Olympians
 - 🎮 I'm currently playing: 
-  - 🗻 Tomb Raider
-  - ⚔ Elden Ring
-  - 🚀 Destiny 2
-  - 🏹 Horizon Zero Dawn
-- 📖 I'm currently reading Star Wars The High Republic: Light of the Jedi
+  - ⚔ Hollow Knight
+- 🏀 Other hobbies I have:
+  - 🏹 Archery
+  - 🏊🏼‍♂️ Swimming
+  - 💪🏼 Gym
+  - 📖 I'm currently reading The Trials of Apollo: The Dark Prophecy 
 - 👨🏻‍💻 Random fact: Since I was kid, I always wanted to be a software engineer
 
 Here are my skills 🛠:
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,java,cpp,css,mysql,swift,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,java,cpp,css,mysql,swift,androidstudio,react,cs,unity,kotlin,js,mongodb)](https://skillicons.dev)
 <br>
 <br>
 
